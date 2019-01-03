@@ -1,0 +1,13 @@
+{
+  "development": {
+    "RDS_HOST" : "127.0.0.1",
+    "RDS_PORT" : "6379",
+    "RDS_PWD" : "crazyzoo"
+  },
+
+  "production": {
+    "RDS_HOST" : "127.0.0.1",
+    "RDS_PORT" : "6379",
+    "RDS_PWD" : "crazyzoo"
+  }
+}

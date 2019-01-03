@@ -1,0 +1,18 @@
+{
+  "name": "chatofpomelo",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "async": "^2.6.0",
+    "chance": "^1.0.12",
+    "crc": "0.2.0",
+    "generic-pool": "3.1.8",
+    "mysql": "^2.15.0",
+    "pomelo": "2.2.x",
+    "random-js": "^1.0.8",
+    "redis": "^2.8.0",
+    "request": "^2.83.0",
+    "uuid": "^3.1.0",
+    "validator": "^9.1.2"
+  }
+}

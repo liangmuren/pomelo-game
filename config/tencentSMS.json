@@ -1,0 +1,11 @@
+{
+  "development":{
+    "AppId":"1400023215",
+    "AppKey":"6cffc6f5ab6c2d1bd3cd6848e5baeb51"
+  },
+
+  "production":{
+    "AppId":"1400023215",
+    "AppKey":"6cffc6f5ab6c2d1bd3cd6848e5baeb51"
+  }
+}

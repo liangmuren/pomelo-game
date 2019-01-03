@@ -1,0 +1,16 @@
+{
+  "development": {
+    "host": "127.0.0.1",
+    "port": "3306",
+    "database": "ar_public",
+    "user": "root",
+    "password": "WinterIsComing8!"
+  },
+  "production": {
+    "host": "118.31.239.135",
+    "port": "3306",
+    "database": "ar_public",
+    "user": "root",
+    "password": "WinterIsComing8!"
+  }
+}

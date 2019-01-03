@@ -1,0 +1,126 @@
+{
+  "development": {
+    "crazyZoo": [
+      {
+        "id": "crazyZoo-server-1",
+        "host": "127.0.0.1",
+        "port": 8050
+      },
+      {
+        "id": "crazyZoo-server-2",
+        "host": "127.0.0.1",
+        "port": 8051
+      }
+    ],
+    "connector": [
+      {
+        "id": "connector-server-1",
+        "host": "127.0.0.1",
+        "port": 4050,
+        "clientPort": 3050,
+        "frontend": true
+      },
+      {
+        "id": "connector-server-2",
+        "host": "127.0.0.1",
+        "port": 4051,
+        "clientPort": 3051,
+        "frontend": true
+      },
+      {
+        "id": "connector-server-3",
+        "host": "127.0.0.1",
+        "port": 4052,
+        "clientPort": 3052,
+        "frontend": true
+      }
+    ],
+    "chat": [
+      {
+        "id": "chat-server-1",
+        "host": "127.0.0.1",
+        "port": 6050
+      },
+      {
+        "id": "chat-server-2",
+        "host": "127.0.0.1",
+        "port": 6051
+      },
+      {
+        "id": "chat-server-3",
+        "host": "127.0.0.1",
+        "port": 6052
+      }
+    ],
+    "gate": [
+      {
+        "id": "gate-server-1",
+        "host": "127.0.0.1",
+        "clientPort": 3014,
+        "frontend": true
+      }
+    ]
+  },
+  "production": {
+    "crazyZoo": [
+      {
+        "id": "crazyZoo-server-1",
+        "host": "120.27.209.133",
+        "port": 8050
+      },
+      {
+        "id": "crazyZoo-server-2",
+        "host": "120.27.209.133",
+        "port": 8051
+      }
+    ],
+    "connector": [
+      {
+        "id": "connector-server-1",
+        "host": "120.27.209.133",
+        "port": 4050,
+        "clientPort": 3050,
+        "frontend": true
+      },
+      {
+        "id": "connector-server-2",
+        "host": "120.27.209.133",
+        "port": 4051,
+        "clientPort": 3051,
+        "frontend": true
+      },
+      {
+        "id": "connector-server-3",
+        "host": "120.27.209.133",
+        "port": 4052,
+        "clientPort": 3052,
+        "frontend": true
+      }
+    ],
+    "chat": [
+      {
+        "id": "chat-server-1",
+        "host": "120.27.209.133",
+        "port": 6050
+      },
+      {
+        "id": "chat-server-2",
+        "host": "120.27.209.133",
+        "port": 6051
+      },
+      {
+        "id": "chat-server-3",
+        "host": "120.27.209.133",
+        "port": 6052
+      }
+    ],
+    "gate": [
+      {
+        "id": "gate-server-1",
+        "host": "120.27.209.133",
+        "clientPort": 3014,
+        "frontend": true
+      }
+    ]
+  }
+}
